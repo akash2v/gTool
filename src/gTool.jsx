@@ -79,7 +79,7 @@ const GTool = () => {
       <div className="min-h-screen bg-gray-900 text-gray-100 p-4">
         <div className="container mx-auto max-w-6xl">
           <h1 className="text-3xl font-bold text-center mb-6 text-blue-400">
-            gTool By Akash Vishwakrma
+            gTool By Akash
           </h1>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
